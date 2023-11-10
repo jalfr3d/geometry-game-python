@@ -49,3 +49,8 @@ Before playing the game, ensure you have the following:
 - Feel free to enhance the game by adding more features or levels for a more challenging experience.
 
 That's it! Have fun playing the Geometry Game and improving your geometry skills while enjoying an interactive experience.
+
+## License
+
+This project is licensed under the MIT License. You are free to use and modify the code for your own purposes.
+
